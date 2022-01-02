@@ -118,14 +118,14 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 /* Style the counter cards */
 .card {
-  border-radius: 5px;
+  border-radius: 6px;
   box-shadow: 0 1px 2px 0 #999;
   text-align: center;
   background-color: #fff;
 }
 
 .card:hover {
-  border-radius: 5px;
+  border-radius: 6px;
   box-shadow: 0 1px 2px 0 #555;
   text-align: center;
   background-color: #fff;
@@ -133,7 +133,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 .card img {
   width: 100%;
-  border-radius: 5px 5px 0px 0px;
+  border-radius: 6px 6px 0px 0px;
 }
 
 .card h3 {
