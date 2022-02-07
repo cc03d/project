@@ -1,4 +1,4 @@
-/*! Public Domain Models - Fee CC0 3D Models under Public Domain License. | https://https://cc03d.com/license */
+/*! CC0 3D - Fee 3D Models & Public Domain Game Assets. | https://cc03d.com/license */
 function bugatti_chiron_blend(){window.open('https://github.com/cc03d/archive/raw/main/bugatti-chiron.zip');}
 function bugatti_chiron_fbx(){window.open('https://github.com/cc03d/archive/raw/main/bugatti-chiron-fbx.zip');}
 function bugatti_chiron_obj(){window.open('https://github.com/cc03d/archive/raw/main/bugatti-chiron-obj.zip');}
@@ -204,7 +204,7 @@ function _obj(){window.open('https://github.com/cc03d/archive/raw/main/.zip');}
 function _3ds(){window.open('https://github.com/cc03d/archive/raw/main/.zip');}
 function _dae(){window.open('https://github.com/cc03d/archive/raw/main/.zip');}
 function _stl(){window.open('https://github.com/cc03d/archive/raw/main/.zip');}
-/*! HDRI Haven | https://hdrihaven.com/p/license.php */
+/*! Poly Haven | https://polyhaven.com/p/license.php */
 function hdri_license(){window.open('https://hdrihaven.com/p/license.php');}
 function lot02_hdri(){window.open('https://hdrihaven.com/hdri/?h=lot_02');}
 function smallhangar02_hdri(){window.open('https://hdrihaven.com/hdri/?h=small_hangar_02');}
@@ -641,7 +641,7 @@ function cliffside_hdri(){window.open('https://hdrihaven.com/hdri/?h=cliffside')
 function chapmansdrive_hdri(){window.open('https://hdrihaven.com/hdri/?h=chapmans_drive');}
 function cabin_hdri(){window.open('https://hdrihaven.com/hdri/?h=cabin');}
 function _hdri(){window.open('https://hdrihaven.com/hdri/?h=');}
-/*! CC0 Textures - Free Public Domain PBR Materials | https://help.ambientcg.com/doku.php?id=website:license */
+/*! ambientCG - Free Public Domain PBR Materials | https://help.ambientcg.com/doku.php?id=website:license */
 function texture_license(){window.open('https://help.ambientcg.com/doku.php?id=website:license');}
 function wood032_texture(){window.open('https://ambientcg.com/view?id=Wood032');}
 function fabric004_texture(){window.open('https://ambientcg.com/view?id=Fabric004');}
@@ -672,7 +672,7 @@ function wood030_texture(){window.open('https://ambientcg.com/view?id=Wood030');
 function wood032_texture(){window.open('https://ambientcg.com/view?id=Wood032');}
 function woodfloor008_texture(){window.open('https://ambientcg.com/view?id=WoodFloor008');}
 function _texture(){window.open('https://ambientcg.com/view?id=');}
-/*! Public Domain Models - Free CC0 3D Models & Public Domain 3D Game Assets | https://cc03d.com/license */
+/*! CC0 3D - Fee 3D Models & Public Domain Game Assets. | https://cc03d.com/license */
 function apple_leaf_2d_texture(){window.open('https://github.com/cc03d/archive/raw/main/appleleaf2d.zip');}
 function pepsi_can_texture(){window.open('https://github.com/cc03d/archive/raw/main/pepsican.zip');}
 function _texture(){window.open('https://github.com/cc03d/archive/raw/main/.zip');}
