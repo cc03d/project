@@ -2,7 +2,7 @@ name: 'CC0 3DS'
 description: 'Free 3D Models & Public Domain 3D Game Assets'
 author: 'Mohamad Rido'
 email: 'cc03ds@mail.ru'
-permalink: /3d-models/:title
+permalink: /:title
 plugin:
   - jekyll-feed
   - jekyll-sitemap
