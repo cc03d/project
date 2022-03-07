@@ -17,3 +17,38 @@ title: 3D Models
 {% endfor %}
 </div>
 {% endfor %}
+<br/>
+--------------
+<br/>
+{% assign tagdata = '' | split:'@' %}
+{% for tag in site.tags %}
+    {% if post.tags contains tag.name or tag.name == post.tags %}
+        {% capture data %}
+        	<a href="{{ site.url }}{{ site.baseurl }}{{ tag.url }}">{{ tag.name }}</a>
+        {% endcapture %}
+        {% assign tagdata = tagdata | push: data %}
+    {% endif %}
+{% endfor %}
+<p>{{ tagdata | array_to_sentence_string }}</p>
+<br/>
+--------------
+<br/>
+{% for cat in page.categories %}
+  <h1>{{ cat }}</h1>
+  <ul>
+    {% for post in site.categories[cat] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+<br/>
+--------------
+<br/>
+{% assign pcat = page.categories %}
+
+<ul>
+    {% for post in site.categories[pcat.first] %}
+        <li {% if post.url == page.url %}class="active"{% endif %}><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
+<br/>
