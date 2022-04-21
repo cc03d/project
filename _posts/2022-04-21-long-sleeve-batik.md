@@ -1,8 +1,9 @@
+2022-04-21-long-sleeve-batik.md
 ---
 title:  "Long Sleeve Batik"
 metadate: "hide"
 categories: [ Fashion ]
-tags: [ accessories ]
+tags: [ apparel ]
 image: "/assets/images/long-sleeve-batik.jpg"
 object: "Long Sleeve Batik"
 geometry: "Subdivision-ready"
