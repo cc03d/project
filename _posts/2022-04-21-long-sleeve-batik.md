@@ -1,4 +1,3 @@
-2022-04-21-long-sleeve-batik.md
 ---
 title:  "Long Sleeve Batik"
 metadate: "hide"
