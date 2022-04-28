@@ -25,5 +25,5 @@ texture: "<a title='Texture' href='' onclick='fabric019_texture()' >Fabric019</a
 hdri: "No"
 imagetexture: ".jpg"
 environment: ".hdr"
-notice: "The preview sample rendering results using 4K Texture and HDRI. But the .blend file format available for download uses 1K as the sample to reduce the file size when you download it."
+notice: "-"
 ---
